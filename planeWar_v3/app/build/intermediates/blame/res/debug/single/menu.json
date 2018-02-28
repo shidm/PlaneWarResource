@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game.xml",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\menu\\game.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\over.xml",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\menu\\over.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\menu\\help.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\score_list.xml",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\menu\\score_list.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu.png",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\enemy.png",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\enemy.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.png",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\game_over.png",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\game_over.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_bg.jpg",
+        "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\drawable-mdpi\\list_bg.jpg"
+    }
+]

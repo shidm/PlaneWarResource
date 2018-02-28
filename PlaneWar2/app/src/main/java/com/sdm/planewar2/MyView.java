@@ -7,6 +7,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Handler;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 
@@ -34,6 +35,8 @@ public class MyView extends BasicView {
 	private MainActivity mainActivity;
 	private Handler handler;
 	private SoundPlay sound;
+
+	private static final String TAG = "MyView";
 
 	@SuppressLint("HandlerLeak")
 	public MyView(Context context) {
@@ -72,9 +75,9 @@ public class MyView extends BasicView {
 		handler = new Handler() {
 			public void handleMessage(android.os.Message msg) {
 				if (msg.what == 1) {
+					Log.d(TAG, "handleMessage: ");
 					mainActivity.toEndView(sumScore);
 				}
-
 			}
 		};
 	}
@@ -142,7 +145,7 @@ public class MyView extends BasicView {
 						if (!obje.isExplosion && myPlane.isAlive) {
 							if (obje.isCollide(myPlane)) {
 								myPlane.isExplosion = true;
-
+								Log.d(TAG, "isExplosion: ");
 							}
 						}
 					}
@@ -150,6 +153,7 @@ public class MyView extends BasicView {
 
 				if (!myPlane.isAlive) {
 					sound.play(7, 0);
+					Log.d(TAG, "!myPlane.isAlive");
 					threadFlag = false;
 				}
 
@@ -280,7 +284,6 @@ public class MyView extends BasicView {
 			initObject();
 			myDraw();
 			long endTime = System.currentTimeMillis();
-
 			if (!isPlay) {
 				try {
 					synchronized (t) {
@@ -289,7 +292,6 @@ public class MyView extends BasicView {
 				} catch (Exception e) {
 				}
 			}
-
 			try {
 				if ((endTime - startTime) < 50) {
 					Thread.sleep(50 - (endTime - startTime));
@@ -297,6 +299,7 @@ public class MyView extends BasicView {
 			} catch (Exception e) {
 			}
 		}
+		Log.d(TAG, "threadFlag: "+threadFlag);
 		handler.sendEmptyMessage(1);
 	}
 
@@ -332,9 +335,13 @@ public class MyView extends BasicView {
 
 		if (event.getAction() == MotionEvent.ACTION_DOWN
 				&& event.getPointerCount() == 1) {
+
+			//左下角的导弹（大招）
 			if (x > 5 && x < 5 + goods.object_width
 					&& y > screen_height - goods.object_height - 5
 					&& y < screen_height - 5) {
+
+				//isExplosion表示已经碰撞过了，isAlive表示goods还存活着（吃到了这个道具）
 				if (goods.isExplosion && goods.isAlive) {
 					for (GameObject obj : planes) {
 						if (obj.isAlive) {
@@ -380,6 +387,7 @@ public class MyView extends BasicView {
 	@Override
 	public void surfaceDestroyed(SurfaceHolder holder) {
 		release();
+		Log.d(TAG, "surfaceDestroyed:");
 		threadFlag = false;
 	}
 

@@ -79,6 +79,9 @@ public class StartView extends BasicView {
 				canvas.save();
 				canvas.clipRect(fly_x, fly_y, fly_x + fly.getWidth(), fly_y
 						+ fly.getHeight() / 3);
+				//fly_y - currentFrome * fly.getHeight() / 3意义;
+				//经过裁剪后只会显示规定大小的区域，在原图不变的情况下我们要显示原显示的图像以下的图，
+				// 那么我们就把显示的原图的位置提高一点（Y减小一定大小），然后在裁剪的区域内就能看见原图以下的图像了
 				canvas.drawBitmap(fly, fly_x,
 						fly_y - currentFrome * fly.getHeight() / 3, paint);
 				currentFrome++;

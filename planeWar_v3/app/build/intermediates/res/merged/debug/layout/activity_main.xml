@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ 	android:background="@drawable/menu"
+    tools:context="cc.activities.MenuActivity" >
+
+    <Button
+        android:id="@+id/menu_quit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:background="#FFDDDDDD"
+        android:onClick="onClick"
+        android:shadowColor="#FF1DA0D7"
+        android:text="退出游戏" />
+
+    <Button
+        android:id="@+id/menu_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/menu_sortlist"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="74dp"
+        android:background="#FFDDDDDD"
+        android:onClick="onClick"
+        android:shadowColor="#FF1DA0D7"
+        android:text="开始游戏" />
+
+    <Button
+        android:id="@+id/menu_help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/menu_quit"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:background="#FFDDDDDD"
+        android:onClick="onClick"
+        android:shadowColor="#FF1DA0D7"
+        android:text="游戏帮助" />
+
+    <Button
+        android:id="@+id/menu_sortlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/menu_help"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:background="#FFDDDDDD"
+        android:onClick="onClick"
+        android:shadowColor="#FF1DA0D7"
+        android:text="查看排名" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="作者：贾川川QQ及微信:290632381"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

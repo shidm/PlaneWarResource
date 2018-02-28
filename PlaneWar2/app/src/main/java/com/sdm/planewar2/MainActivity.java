@@ -1,9 +1,13 @@
 package com.sdm.planewar2;
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
+import android.content.pm.PackageManager;
 import android.media.AudioManager;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.view.KeyEvent;
 import android.view.Window;
 import android.view.WindowManager;
@@ -29,6 +33,12 @@ public class MainActivity extends Activity {
 
 		startView = new StartView(this);
 		setContentView(startView);
+
+		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+			if (ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+				requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},123);
+			}
+		}
 	}
 
 	public void toMyView() {

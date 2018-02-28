@@ -1,27 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/dimens.xml",
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "3,4",
+                        "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
                     },
                     "to": {
-                        "startLines": "2,3",
+                        "startLines": "11,18",
                         "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
+                        "startOffsets": "579,870",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "865,1025"
                     }
                 },
                 {
-                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/strings.xml",
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,3,5,6,8,7,9",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -38,7 +40,29 @@
                     }
                 },
                 {
-                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/styles.xml",
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
@@ -54,6 +78,98 @@
                         "endLines": "17,20",
                         "endColumns": "12,12",
                         "endOffsets": "865,1025"
+                    }
+                },
+                {
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6,8,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "109,59,163,217,341,279,403",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "157,103,211,273,397,335,470"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,324,385,446,507",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "217,266,319,380,441,502,574"
+                    }
+                },
+                {
+                    "source": "G:\\AndroidStudioProjects_3.0\\PlaneWarResource\\planeWar_v3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\opt\\Android\\AndroidStudioProjects\\planeWar_v3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\opt\\Android\\AndroidStudioProjects\\planeWar_v3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6,8,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "109,59,163,217,341,279,403",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "157,103,211,273,397,335,470"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,324,385,446,507",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "217,266,319,380,441,502,574"
+                    }
+                },
+                {
+                    "source": "G:\\opt\\Android\\AndroidStudioProjects\\planeWar_v3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "579,870",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "865,1025"
+                    }
+                },
+                {
+                    "source": "G:\\opt\\Android\\AndroidStudioProjects\\planeWar_v3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
                     }
                 }
             ]
