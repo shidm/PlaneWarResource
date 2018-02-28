@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6,8,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "109,59,163,217,341,279,403",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "157,103,211,273,397,335,470"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,324,385,446,507",
+                        "endColumns": "52,48,52,60,60,60,71",
+                        "endOffsets": "217,266,319,380,441,502,574"
+                    }
+                },
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "579,870",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "865,1025"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

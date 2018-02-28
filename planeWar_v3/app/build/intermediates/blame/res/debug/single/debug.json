@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_activity_help.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_activity_game.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/activity_game.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_04.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_04.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_01.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_01.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-hdpi_bullet.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-hdpi/bullet.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_game_over.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/game_over.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_03.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_03.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_background.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/menu_game.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/menu/game.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_activity_over.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/activity_over.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/menu_score_list.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/menu/score_list.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_enemy.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/enemy.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_05.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_05.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_activity_score_list.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/activity_score_list.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/menu_over.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/menu/over.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_00.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_00.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_menu.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_player.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/player.png"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-mdpi_list_bg.jpg.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-mdpi/list_bg.jpg"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/menu_help.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/menu/help.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/layout_score_list_item.xml.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/layout/score_list_item.xml"
+    },
+    {
+        "merged": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_angry_birds_02.png.flat",
+        "source": "/opt/Android/AndroidStudioProjects/planeWar_v3/app/src/main/res/drawable-xxhdpi/angry_birds_02.png"
+    }
+]
