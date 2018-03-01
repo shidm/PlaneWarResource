@@ -218,9 +218,13 @@ public class MyView extends BasicView {
 		if(sumScore>=3000){
 			goods.setId_2();
 		}
+
+		//一次只有8排子弹（上面bullets只定义了8个子弹实例）
+        //优化，当没有子弹死亡时，就加一个子弹
 		for (GameObject obj : bullets) {// ---------------------------》初始化子弹
 			if (!obj.isAlive) {
 				obj.initial(0, myPlane.getMiddle_x(), myPlane.getMiddle_y(), 0);
+				Log.d(TAG, "initObject: ");
 				break;
 			}
 		}
